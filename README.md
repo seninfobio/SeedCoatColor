@@ -14,3 +14,6 @@
 2. [Morphological Seed Characterization of Common (Phaseolus vulgaris L.) and Runner (Phaseolus coccineus L.) Bean Germplasm: A Slovenian Gene Bank Example](https://www.hindawi.com/journals/bmri/2019/6376948/)
 3. [Computer image analysis of seed shape and seed color for flax cultivar description](https://www.sciencedirect.com/science/article/pii/S0168169907002189?via%3Dihub#fig1)
 4. [The BELT and phenoSEED platforms: shape and colour phenotyping of seed samples](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-020-00591-8#Sec14)
+5. [Image analysis based on color, shape and texture for rice seed (Oryza sativa L.) germination evaluation](https://www.sciencedirect.com/science/article/pii/S2452316X17306361)
+6. [Possibility use of digital image analysis for the estimation of the rapeseed maturity stage](https://www.tandfonline.com/doi/full/10.1080/10942912.2017.1371188)
+7. 
