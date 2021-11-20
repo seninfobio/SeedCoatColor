@@ -1,4 +1,22 @@
 # SeedCoatColor
+# data using in R
+
+[Help](https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #References
 
