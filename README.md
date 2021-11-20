@@ -3,6 +3,27 @@
 
 [Help](https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html)
 
+```
+library(ggfortify)
+
+View(seed_data)
+
+df <- seed.data [6:4]           ]
+
+pca_res <- prcomp(df, scale. = TRUE)
+
+autoplot(pca_res, data = seed_data, colour = 'Accession')
+
+autoplot(pca_res, data = seed_data, colour = 'Accession', label = TRUE, label.size = 3)
+
+autoplot(pca_res, data = seed_data, colour = 'Accession', loadings = TRUE)
+
+autoplot(pam(seed_data [-5], 3), frame = TRUE, frame.type = 'norm')
+
+```
+
+
+
 
 
 
