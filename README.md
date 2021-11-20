@@ -1,7 +1,9 @@
 # SeedCoatColor
 # data using in R
 
-[Help](https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html)
+[Ref1](https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html)
+[Ref2](https://www.datacamp.com/community/tutorials/pca-analysis-r)
+[Ref3](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/#basics)
 
 ```
 library(ggfortify)
