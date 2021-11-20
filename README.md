@@ -23,6 +23,8 @@ autoplot(pam(seed_data [-5], 3), frame = TRUE, frame.type = 'norm')
 ```
 
 
+[Seed.dataPCA1](https://github.com/seninfobio/SeedCoatColor/blob/seninfobio/Seed_data_PCA1.png)
+
 
 
 
