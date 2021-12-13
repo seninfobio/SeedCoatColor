@@ -1,4 +1,36 @@
 # SeedCoatColor
+# Principal Component Analysis using Rstudio
+[example of plant physilogical parameters](https://plantbreederspot.blogspot.com/2021/02/principal-component-analysis-using.html?m=1)
+
+```
+install.packages("factoextra")
+library(factoextra)
+data<-seed_data[c(2:4)]
+prcomp(data, scale. = TRUE)
+
+pca<-prcomp(data, scale. = TRUE)      
+summary(pca)
+fviz_eig(pca)
+
+```
+
+  result: 
+  Standard deviations (1, .., p=3):
+  [1] 1.68526478 0.39037109 0.08656224
+
+  Rotation (n x k) = (3 x 3):
+             PC1         PC2        PC3
+  Width  0.5730098 -0.65646404 -0.4906269
+  Height 0.5671219  0.74978589 -0.3408722
+  Area   0.5916355 -0.08292214  0.8019298
+
+Importance of components:
+                          PC1    PC2     PC3
+Standard deviation     1.6853 0.3904 0.08656
+Proportion of Variance 0.9467 0.0508 0.00250
+Cumulative Proportion  0.9467 0.9975 1.00000
+
+
 # data using in R
 
 [Ref1](https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html)
