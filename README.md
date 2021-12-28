@@ -1,4 +1,13 @@
 # SeedCoatColor
+  - Figure 1. samples of extreme seed color or size such as Black, Brown, White, Viz.,
+  - Figure 2. Ordination diagram of vectors of all seed tratits analyzed by PCA
+  - Figure 3. Multivariate analysis based on all seed traits
+  - Figure 4. Multivariate analysis of seed shape traits
+  - Figure 5. Multivariate analysis of seed color traits
+  - Figure 6. UPGMA cluster analysis using seed colors
+  
+  *****************************************************************************************************************************************
+
 # Principal Component Analysis using Rstudio
 [example of plant physilogical parameters](https://plantbreederspot.blogspot.com/2021/02/principal-component-analysis-using.html?m=1)
 
